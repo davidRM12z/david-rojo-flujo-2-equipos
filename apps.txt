@@ -1,3 +1,4 @@
 Mejores app para programar:
 - git
 - visual code
+- bloc de notas
